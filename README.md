@@ -1,2 +1,2 @@
-# vue-four-mobile
-项目描述信息。
+# vue-mobile
+学习。
